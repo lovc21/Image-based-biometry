@@ -1,0 +1,16 @@
+
+ppython:S117B"MRename this parameter "P" to match the regular expression ^[_a-z][a-z0-9_]*$.(Îœ„¦ÿÿÿÿÿ8Õ‡ç1
+ppython:S117B"MRename this parameter "R" to match the regular expression ^[_a-z][a-z0-9_]*$.(Îœ„¦ÿÿÿÿÿ8Õ‡ç1
+Bpython:S125F"Remove this commented out code.(õÍ©Üüÿÿÿÿ8Õ‡ç1
+Bpython:S125c"Remove this commented out code.(Şóõ¥şÿÿÿÿ8Õ‡ç1
+Bpython:S125n"Remove this commented out code.(˜ÏàÔûÿÿÿÿ8Õ‡ç1
+†python:S117Ã"bRename this local variable "L_cells_per_block" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÖåÃ«úÿÿÿÿ8Õ‡ç1
+vpython:S117¬"WRename this local variable "L_list" to match the regular expression ^[_a-z][a-z0-9_]*$.(¼†Š”8Õ‡ç1
+}python:S117ß"^Rename this local variable "L_num_classes" to match the regular expression ^[_a-z][a-z0-9_]*$.(µ£8Õ‡ç1
+~python:S117Á"_Rename this local variable "L_orientations" to match the regular expression ^[_a-z][a-z0-9_]*$.(ù¤£8Õ‡ç1
+†python:S117Â"bRename this local variable "L_pixels_per_cell" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ÿƒ•ãúÿÿÿÿ8Õ‡ç1
+python:S117Ş"]Rename this local variable "L_pretrained" to match the regular expression ^[_a-z][a-z0-9_]*$.(õâíôûÿÿÿÿ8Õ‡ç1
+{python:S117­"WRename this local variable "R_list" to match the regular expression ^[_a-z][a-z0-9_]*$.(éš½øÿÿÿÿ8Õ‡ç1
+vpython:S117¸"WRename this local variable "best_L" to match the regular expression ^[_a-z][a-z0-9_]*$.(¸ÆƒŞ8Õ‡ç1
+vpython:S117¹"WRename this local variable "best_R" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÛÖû³8Õ‡ç1
+spython:S3776¥"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(œŸ²_8Õ‡ç1

@@ -1,0 +1,8 @@
+Best Parameters: L=24, R=2 with accuracy 0.0136986301369863
+Library LBP Accuracy: 1.37%
+Manual LBP Accuracy: 1.37%
+Pixel-to-Pixel Accuracy: 2.70%
+----------------------------------------
+Library LBP Accuracy for GT: 1.80%
+Manual LBP Accuracy for GT: 1.80%
+Pixel-to-Pixel Accuracy for GT: 2.00%
